@@ -4,7 +4,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Mauricio;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
  -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=Hello!+:%29;Welcome!;My+name+is+Mauricio.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=hello!+:%29;Welcome+to+the+mato!;My+name+is+Yuri.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
 
 
 
@@ -14,7 +14,7 @@
 
  📖 Learning System Development at SENAI de Informática.
 
- 👨🏾‍🎓  Atualmente estudando C#, Pyhthon e Javascript
+ 👨🏾‍🎓  Atualmente estudando html, css e Javascript
 
 </div>
 
@@ -27,8 +27,8 @@
 <!-- <br></br> -->
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Marqzzs&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Mauricio github stats" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marqzzs&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=YuriAdielSunigaDosSantos&show_icons=true&count_private=true&hide_border=true&ring_color=00c647&title_color=ffffff&icon_color=00c647&rank-circle_color=00c647&text_color=ffffff&bg_color=0d1117" alt="Yuri github" /> 
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriAdielSunigaDosSantos&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 
@@ -38,7 +38,6 @@
  
  ### Studying in this moment:
   
-![Csharp](https://img.shields.io/badge/-Csharp-ffffff?style=for-the-badge&logo=csharp&logoColor=white&labelColor=178600&textColor=ffffff)&nbsp;
 ![Html](https://img.shields.io/badge/-HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26&textColor=ffffff)&nbsp;
 ![Css](https://img.shields.io/badge/-CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=white&labelColor=563d7c&textColor=ffffff)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
@@ -47,7 +46,7 @@
 
 <hr>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Marqzzs&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriAdielSunigaDosSantos&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <hr>
 
