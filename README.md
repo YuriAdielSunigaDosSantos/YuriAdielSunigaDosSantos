@@ -10,7 +10,7 @@
 
 <div align="left">
 <hr>
-<img src="https://pbs.twimg.com/profile_images/1551979554922700802/z9XUkObc_400x400.jpg" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
+<img src="https://i.pinimg.com/736x/96/78/51/9678518ae4c8c73cb1a15c787e32c460.jpg" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
 
  📖 Learning System Development at SENAI de Informática.
 
