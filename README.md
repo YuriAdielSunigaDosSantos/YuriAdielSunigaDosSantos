@@ -1,7 +1,7 @@
 <hr>
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=header"/> -->
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Mauricio;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=28&center=false&vCenter=true&width=600&lines=Seja+Bem+Vindo+:%29;Meu+nome+é+Yuri;Sou+de+São+Paulo,+Brasil)](https://git.io/typing-svg)
 
  -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&size=36&pause=1000&color=00c647&background=08650000&center=true&vCenter=true&width=1280&lines=hello!+:%29;Welcome+to+the+mato!;My+name+is+Yuri.;I'm+from+São+Paulo,+Brasil.)](https://git.io/typing-svg)
@@ -12,7 +12,7 @@
 <hr>
 <img src="https://i.pinimg.com/736x/96/78/51/9678518ae4c8c73cb1a15c787e32c460.jpg" min-width="50px" max-width="100px" width="100px" align="right" alt="A silly cat">
 
- 📖 Learning System Development at SENAI de Informática.
+ 📖 Learning System Multimidia at SENAI de Informática.
 
  👨🏾‍🎓  Atualmente estudando html, css e Javascript
 
@@ -43,21 +43,12 @@
 ![Javascript](https://img.shields.io/badge/-Javascript-ffffff?style=for-the-badge&logo=javascript&logoColor=0a0c10&labelColor=f1e05a&textColor=ffffff)&nbsp;
 
 </div>
-
-<hr>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=YuriAdielSunigaDosSantos&bg_color=101319&color=ffffff&line=009334&point=00c647&area=true&border_color=00c647&ring_color=00c647&area_color=004618&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<hr>
-
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Marqzzs&color=00c647)
+![](https://komarev.com/ghpvc/?usernameYuriAdielSunigaDosSantos=&color=00c647)
  
 </div>
 
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00c647&height=120&section=footer"/> -->
 
 <hr>
-
-![snake gif](https://github.com/Marqzzs/Marqzzs/blob/output/github-contribution-grid-snake.svg)
